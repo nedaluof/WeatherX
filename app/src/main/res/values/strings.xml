@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">WeatherX</string>
+
+    <!-- Permission screen -->
+    <string name="location_permission_description">WeatherX App Need To Grant The Location Permission , it is Necessary To Take The Best From The Application</string>
+    <string name="grant_permission_label">Grant Permission</string>
+    <string name="go_to_settings_label">Enable location from settings</string>
+
+    <!-- Home screen -->
+    <string name="pick_location_description_label">Please pick your location to see the weather result here.</string>
+    <string name="pick_location_label">Pick Location</string>
+    <string name="open_details_label">Click for more details</string>
+    <string name="close_details_label">Click to close details</string>
+    <string name="feels_like_label">Feels Like</string>
+    <string name="pressure_label">Pressure</string>
+    <string name="humidity_label">Humidity</string>
+    <string name="sunset_label">Sunset</string>
+    <string name="sunrise_label">Sunrise</string>
+
+    <!-- Location picker screen -->
+    <string name="confirm_location_label">Confirm Select Location</string>
+
+    <!-- Pick Location screen -->
+    <string name="search_label">Search by city or country</string>
+    <string name="city_not_found_label">City not found. Please try a with a correct city or country name .</string>
+    <string name="use_location_label">Using my current location</string>
+    <string name="confirm_selected_city_label">Fetch weather for %1$s ?</string>
+
+    <!-- Weather scales dialog -->
+    <string name="choose_your_scale_label">Choose you preferred weather scale unit.</string>
+    <string name="weather_unit_metric_label">Metric ( Celsius )</string>
+    <string name="weather_unit_imperial_label">Imperial ( Fahrenheit )</string>
+    <string name="confirm_label">Confirm</string>
+
+</resources>
